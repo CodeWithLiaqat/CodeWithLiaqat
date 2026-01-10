@@ -16,6 +16,21 @@ As a 𝗕𝗦 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝘀𝘁𝘂𝗱𝗲
 
 ---
 
+### How to Use Variables in Python
+- Variables store data values so you can reuse them in your code.
+- You create a variable by assigning it with `=`, and Python decides its type from the value.
+- Example:
+  ```python
+  name = "Liaqat"      # string variable
+  age = 22             # integer variable
+  is_student = True    # boolean variable
+
+  print(f"{name} is {age} years old. Student: {is_student}")
+  ```
+- Variable names should start with a letter or underscore, use only letters/numbers/underscores, and be descriptive (e.g., `total_sales` instead of `ts`).
+
+---
+
 ### Certifications
 I have completed professional training in the following areas:
 
