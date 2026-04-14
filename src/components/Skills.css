@@ -1,0 +1,110 @@
+.skills {
+  background: var(--color-neutral-50);
+}
+
+.skills__header {
+  margin-bottom: var(--space-8);
+  max-width: 600px;
+}
+
+.skills__grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-4);
+}
+
+.skills__card {
+  padding: var(--space-4);
+}
+
+.skills__card-head {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-2);
+  margin-bottom: var(--space-4);
+  padding-bottom: var(--space-3);
+  border-bottom: 1px solid var(--color-neutral-100);
+}
+
+.skills__card-icon {
+  width: 48px;
+  height: 48px;
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.skills__card-icon--blue {
+  background: var(--color-primary-50);
+  color: var(--color-primary-600);
+}
+
+.skills__card-icon--green {
+  background: var(--color-secondary-50);
+  color: var(--color-secondary-600);
+}
+
+.skills__card-title {
+  font-family: var(--font-display);
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--color-neutral-900);
+  margin-bottom: 3px;
+}
+
+.skills__card-sub {
+  font-size: 13px;
+  color: var(--color-neutral-400);
+}
+
+.skills__bars {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-3);
+}
+
+.skill-item__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 7px;
+}
+
+.skill-item__name {
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--color-neutral-700);
+}
+
+.skill-item__pct {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-neutral-400);
+}
+
+.skill-item__track {
+  height: 7px;
+  background: var(--color-neutral-100);
+  border-radius: var(--radius-full);
+  overflow: hidden;
+}
+
+.skill-item__bar {
+  height: 100%;
+  width: 0;
+  background: linear-gradient(90deg, var(--color-primary-400), var(--color-primary-600));
+  border-radius: var(--radius-full);
+  transition: width 1s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.skills__card:last-child .skill-item__bar {
+  background: linear-gradient(90deg, var(--color-secondary-400), var(--color-secondary-600));
+}
+
+@media (max-width: 800px) {
+  .skills__grid {
+    grid-template-columns: 1fr;
+  }
+}
