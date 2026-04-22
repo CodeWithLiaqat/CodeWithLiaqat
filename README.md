@@ -28,6 +28,8 @@
 
 ## 👨‍💼 About Me
 
+<div align="left">
+
 I’m a **BS Data Science student** at **Virtual University of Pakistan** with a practical blend of:
 
 - 📊 **Data Analysis** (Python, NumPy, Pandas, Matplotlib, Excel)  
@@ -36,54 +38,105 @@ I’m a **BS Data Science student** at **Virtual University of Pakistan** with a
 
 I’m actively looking for **internship / entry-level opportunities (Remote/Hybrid)** where I can deliver real impact.
 
+</div>
+
 ---
 
 ## 🧠 Core Skills
 
+<div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 📈 Data Analytics
-- Python  
-- NumPy  
-- Pandas  
-- Matplotlib  
-- Seaborn  
-- Microsoft Excel  
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/NumPy-1E293B?style=for-the-badge&logo=numpy&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Pandas-334155?style=for-the-badge&logo=pandas&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Matplotlib-475569?style=for-the-badge&logo=plotly&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Seaborn-6366F1?style=for-the-badge&logo=python&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-065F46?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎨 Web Designing & Development
-- WordPress  
-- Elementor Pro  
-- WooCommerce  
-- HTML / CSS / JavaScript  
-- Responsive Design  
-- Speed Optimization  
+
+<p>
+  <img src="https://img.shields.io/badge/WordPress-111827?style=for-the-badge&logo=wordpress&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Elementor%20Pro-1E293B?style=for-the-badge&logo=elementor&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/WooCommerce-334155?style=for-the-badge&logo=woocommerce&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS%20%2F%20JavaScript-475569?style=for-the-badge&logo=javascript&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Responsive%20Design-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Speed%20Optimization-065F46?style=for-the-badge&logo=lighthouse&logoColor=white" />
+</p>
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 ## 🏅 Certifications
 
-- ✅ Data Analytics & Business Intelligence — **DigiSkills.pk**  
-- ✅ WordPress Development — **DigiSkills.pk**  
-- ✅ Freelancing — **DigiSkills.pk**  
-- ✅ Digital Literacy & Basic IT — **DigiSkills.pk**
+<div align="left">
+
+✅ Data Analytics & Business Intelligence — **DigiSkills.pk**  
+✅ WordPress Development — **DigiSkills.pk**  
+✅ Freelancing — **DigiSkills.pk**  
+✅ Digital Literacy & Basic IT — **DigiSkills.pk**  
+✅ Digital Literacy — **DigiSkills.pk** *(DSTP3.0-Batch-02, Dec 2025–Mar 2026, Issue Date: 14/03/2026, Certificate ID: E7W7A5NMK, Verify: https://digiskills.pk/verify)*  
+✅ Data Analytics and Business Intelligence — **DigiSkills.pk** *(DSTP3.0-Batch-01, Aug 2025–Nov 2025, Issue Date: 17/12/2025, Certificate ID: EUFXP7DMK, Verify: https://digiskills.pk/verify)*  
+✅ WordPress — **DigiSkills.pk** *(DSTP3.0-Batch-02, Dec 2025–Mar 2026, Issue Date: 14/03/2026, Certificate ID: UZD7DAWMK, Verify: https://digiskills.pk/verify)*
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🖼️ Certification Proof
+
+<table>
+<tr>
+<td width="33.33%" align="center" valign="top">
+
+**Digital Literacy (DSTP3.0-Batch-02)**  
+<img src="./assets/certifications/digital-literacy.jpg" alt="Digital Literacy Certificate - Liaqat Ali Khan" width="100%" />
+
+</td>
+<td width="33.33%" align="center" valign="top">
+
+**Data Analytics and Business Intelligence (DSTP3.0-Batch-01)**  
+<img src="./assets/certifications/data-analytics-business-intelligence.jpg" alt="Data Analytics and Business Intelligence Certificate - Liaqat Ali Khan" width="100%" />
+
+</td>
+<td width="33.33%" align="center" valign="top">
+
+**WordPress (DSTP3.0-Batch-02)**  
+<img src="./assets/certifications/wordpress.jpg" alt="WordPress Certificate - Liaqat Ali Khan" width="100%" />
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## 💼 Portfolio Highlights
 
+<div align="left">
+
 - Data cleaning and visualization projects  
 - Conversion-focused landing pages  
 - Professional WordPress business websites  
 - User-focused and practical digital experiences  
+
+</div>
 
 ---
 
@@ -94,34 +147,44 @@ I’m actively looking for **internship / entry-level opportunities (Remote/Hybr
 
 ### 🌐 Hosting & Infrastructure
 
-| Platform | Best For | Link |
-|---|---|---|
-| **Hosting** | Comparing plans for blogs, business sites, and client projects | [Open](https://codeics.me/hosting) |
-| **Kinsta** | Premium managed WordPress hosting (speed, security, backups) | [Open](https://codeics.me/kinsta) |
-| **DigitalOcean** | Cloud servers for developers who need scalability and control | [Open](https://codeics.me/digital-ocean) |
+<div align="left">
+
+- **Hosting** — Comparing plans for blogs, business sites, and client projects — [Open](https://codeics.me/hosting)  
+- **Kinsta** — Premium managed WordPress hosting (speed, security, backups) — [Open](https://codeics.me/kinsta)  
+- **DigitalOcean** — Cloud servers for developers who need scalability and control — [Open](https://codeics.me/digital-ocean)
+
+</div>
 
 ### 🧩 WordPress & Site Building
 
-| Platform | Best For | Link |
-|---|---|---|
-| **Elementor** | Drag-and-drop design for modern WordPress pages | [Open](https://codeics.me/elementor) |
-| **SolidWP** | Security, backup, and management for WordPress sites | [Open](https://codeics.me/solidWP) |
-| **LearnDash** | Building and selling online courses with WordPress LMS | [Open](https://codeics.me/learndash) |
+<div align="left">
+
+- **Elementor** — Drag-and-drop design for modern WordPress pages — [Open](https://codeics.me/elementor)  
+- **SolidWP** — Security, backup, and management for WordPress sites — [Open](https://codeics.me/solidWP)  
+- **LearnDash** — Building and selling online courses with WordPress LMS — [Open](https://codeics.me/learndash)
+
+</div>
 
 ### 📌 Traffic & Marketing
 
-| Platform | Best For | Link |
-|---|---|---|
-| **Pinterest** | Long-term organic traffic for blogs and digital content | [Open](https://codeics.me/pinterest) |
+<div align="left">
+
+- **Pinterest** — Long-term organic traffic for blogs and digital content — [Open](https://codeics.me/pinterest)
+
+</div>
 
 ---
 
 ## 🎯 Current Focus
 
+<div align="left">
+
 - Strengthening **Python for Data Science**
 - Growing as a **Data Analyst**
 - Building **high-value web and analytics solutions**
 - Collaborating on practical projects with measurable outcomes
+
+</div>
 
 ---
 
