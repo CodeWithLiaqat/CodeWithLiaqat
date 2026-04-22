@@ -44,10 +44,10 @@ I’m actively looking for **internship / entry-level opportunities (Remote/Hybr
 
 ## 🧠 Core Skills
 
-<div align="center">
+<div align="start">
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="center">
 
 ### 📈 Data Analytics
 
@@ -87,7 +87,6 @@ I’m actively looking for **internship / entry-level opportunities (Remote/Hybr
 
 ✅ Data Analytics & Business Intelligence — **DigiSkills.pk**  
 ✅ WordPress Development — **DigiSkills.pk**  
-✅ Freelancing — **DigiSkills.pk**  
 ✅ Digital Literacy & Basic IT — **DigiSkills.pk**  
 ✅ Digital Literacy — **DigiSkills.pk** *(DSTP3.0-Batch-02, Dec 2025–Mar 2026, Issue Date: 14/03/2026, Certificate ID: E7W7A5NMK, Verify: https://digiskills.pk/verify)*  
 ✅ Data Analytics and Business Intelligence — **DigiSkills.pk** *(DSTP3.0-Batch-01, Aug 2025–Nov 2025, Issue Date: 17/12/2025, Certificate ID: EUFXP7DMK, Verify: https://digiskills.pk/verify)*  
@@ -131,11 +130,14 @@ I’m actively looking for **internship / entry-level opportunities (Remote/Hybr
 
 <div align="left">
 
-- Data cleaning and visualization projects  
+- WordPress Website Design 
 - Conversion-focused landing pages  
 - Professional WordPress business websites  
 - User-focused and practical digital experiences  
-
+- Premium Ecommerce Websites
+- Blogging Websites
+- UI & UX Design
+- Data Cleaning Using Python & it's Library 
 </div>
 
 ---
