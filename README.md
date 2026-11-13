@@ -46,6 +46,9 @@ I build AI-powered websites, chatbots and automation that turn visitors into lea
 | **AXELION ZERO** | Concept hypercar site, Next.js + 3D | [ex.liaqatali.dev](https://ex.liaqatali.dev) |
 | **Fragrance** | Premium fragrance storefront | [fragrance.codeics.me](https://fragrance.codeics.me) |
 | **Med Spa** | Med spa business website | [medspa.codeics.me](https://medspa.codeics.me) |
+| **Apex Home Services** | Home services site: plumbing, HVAC and remodeling | [md.codeics.me](https://md.codeics.me) |
+| **Skincare USA** | Online skincare brand: face serums and creams | [sk.codeics.me](https://sk.codeics.me) |
+| **Live project** | Business website project | [ms.codeics.me](https://ms.codeics.me) |
 | **Portfolio** | Personal portfolio | [liaqatali.dev](https://liaqatali.dev) |
 
 <br>
